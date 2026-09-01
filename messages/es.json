@@ -1,0 +1,551 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "projects": "Proyectos",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "hire": "Contratarme"
+  },
+  "footer": {
+    "tagline": "Diseñado y construido con Next.js 14, TypeScript y Tailwind CSS. Elaborado con cuidado en la oscuridad.",
+    "nav_heading": "Navegación",
+    "contact_heading": "Ponte en Contacto",
+    "contact_body": "¿Tienes un proyecto en mente o solo quieres saludar? Mi bandeja de entrada siempre está abierta.",
+    "copyright": "© 2024 Alex Morris. Todos los derechos reservados.",
+    "built_with": "Construido con Next.js 14 · TypeScript · Tailwind CSS"
+  },
+  "hero": {
+    "cta": {
+      "primary": "Ver mi trabajo",
+      "secondary": "Ponte en contacto"
+    },
+    "eyebrow": "Bienvenido",
+    "heading1": "Diseñador &",
+    "heading2": "Desarrollador",
+    "sub": "Creo experiencias digitales que combinan diseño elegante con ingeniería sólida."
+  },
+  "cta": {
+    "home": {
+      "heading": "Construyamos algo increíble juntos.",
+      "body": "Ya sea que tengas una idea de producto, un desafío de ingeniería, o solo quieras saludar — mi bandeja de entrada siempre está abierta.",
+      "button": "Ponte en contacto"
+    },
+    "projects": {
+      "heading": "¿Ves algo que te guste?",
+      "body": "Estoy abierto a proyectos freelance, roles a tiempo completo y colaboraciones interesantes. Hablemos sobre lo que podríamos construir juntos.",
+      "button": "Ponte en contacto"
+    },
+    "button": "Iniciar un proyecto",
+    "eyebrow": "¿Listo para colaborar?",
+    "heading": "Construyamos algo asombroso",
+    "sub": "Siempre me interesa conocer sobre nuevos proyectos y oportunidades."
+  },
+  "contact": {
+    "hero": {
+      "heading": "Construyamos Algo Juntos",
+      "body": "Ya sea que tengas un proyecto en mente, una pregunta que hacer, o solo quieras saludar — mi bandeja de entrada siempre está abierta. Normalmente respondo dentro de 24 horas."
+    },
+    "form": {
+      "heading": "Envíame un Mensaje",
+      "body": "Completa el formulario a continuación y te responderé lo antes posible. Todos los campos marcados con un asterisco (*) son obligatorios.",
+      "button": "Enviar Mensaje",
+      "success": "¡Mensaje enviado! Te responderé dentro de 24 horas.",
+      "error": "Algo salió mal. Por favor, intenta de nuevo o envíame un correo directamente.",
+      "disclaimer": "Solo usaré tu información para responder a tu mensaje.",
+      "emailLabel": "Correo Electrónico",
+      "emailPlaceholder": "tu@ejemplo.com",
+      "messageLabel": "Mensaje",
+      "messagePlaceholder": "Cuéntame sobre tu proyecto...",
+      "nameLabel": "Nombre",
+      "namePlaceholder": "Tu nombre",
+      "sending": "Enviando...",
+      "subheading": "Completa el formulario a continuación y te responderé pronto.",
+      "subjectLabel": "Asunto",
+      "subjectPlaceholder": "¿De qué se trata?",
+      "submit": "Enviar mensaje"
+    },
+    "social": {
+      "heading": "Encuéntrame en línea",
+      "body": "¿Prefieres otro canal? Conéctate conmigo en cualquiera de las plataformas a continuación."
+    },
+    "card": {
+      "body": "¿Prefieres correo electrónico? Ponte en contacto directo y te responderé dentro de 24 horas.",
+      "heading": "Ponte en contacto"
+    },
+    "eyebrow": "Hablemos",
+    "heading": "Contacto",
+    "subheading": "¿Tienes un proyecto en mente? Creemos algo increíble juntos.",
+    "success": {
+      "body": "Gracias por comunicarte. Pronto me pondré en contacto.",
+      "heading": "¡Mensaje enviado!",
+      "reset": "Enviar otro"
+    }
+  },
+  "about": {
+    "hero": {
+      "heading": "La persona detrás de los píxeles.",
+      "body": "Soy un desarrollador full-stack y tecnólogo creativo que cree que el gran software es tanto sobre la experiencia como sobre la función. Creo experiencias digitales que son rápidas, hermosas y construidas para durar.",
+      "cta": "Ver mi trabajo"
+    },
+    "bio": {
+      "heading": "Un poco sobre mí",
+      "body1": "Comencé a escribir código a los 16 años, jugando con HTML y CSS para que mi tema de Tumblr se viera perfecto. Esa obsesión por la artesanía nunca desapareció. Hoy trabajo en la intersección de la ingeniería y el diseño — construyendo productos que resuelven problemas reales sin sacrificar ni un ápice de elegancia.",
+      "body2": "Cuando no estoy moviendo píxeles o depurando APIs, me encontrarás caminando por senderos de montaña, buscando el espresso perfecto, o leyendo sobre diseño tipográfico. Creo que el mejor trabajo proviene de personas que son genuinamente curiosas sobre el mundo más allá de su pantalla.",
+      "avatarAlt": "Foto de perfil",
+      "eyebrow": "Sobre mí",
+      "paragraph1": "Soy diseñador y desarrollador apasionado por crear experiencias digitales hermosas y funcionales. Con enfoque en código limpio y diseño reflexivo, construyo productos que los usuarios aman.",
+      "paragraph2": "Cuando no estoy diseñando o codificando, me encontrarás explorando nuevas herramientas, contribuyendo a código abierto, o compartiendo lo que he aprendido con la comunidad.",
+      "status": "Disponible para trabajar",
+      "yearsExp": "5+ años de experiencia"
+    },
+    "experience": {
+      "heading": "Dónde he estado",
+      "body": "Una línea de tiempo de los roles e hitos que moldearon cómo pienso y construyo.",
+      "eyebrow": "Experiencia"
+    },
+    "skills": {
+      "heading": "Con qué trabajo",
+      "body": "Herramientas y tecnologías que uso todos los días — y algunas en las que estoy mejorando activamente.",
+      "eyebrow": "Habilidades"
+    },
+    "social": {
+      "heading": "Conectemos",
+      "body": "Siempre estoy disponible para conversar sobre problemas interesantes, oportunidades de colaboración, o simplemente intercambiar recomendaciones de libros. Encuéntrame en la web.",
+      "cta": "Ponte en contacto",
+      "eyebrow": "Conectar",
+      "subheading": "Encuéntrame en estas plataformas"
+    }
+  },
+  "projects": {
+    "hero": {
+      "heading": "Cada proyecto cuenta una historia.",
+      "body": "Aquí hay una selección cuidada del trabajo del que estoy más orgulloso — desde aplicaciones web full-stack y experiencias interactivas hasta sistemas de diseño y herramientas de código abierto.",
+      "cta": "Ir al trabajo",
+      "subtitle": "Una selección de proyectos recientes que muestran experiencia en diseño y desarrollo.",
+      "title": "Proyectos"
+    },
+    "grid": {
+      "heading": "Todos los Proyectos",
+      "body": "Pasa el cursor sobre cualquier tarjeta para ver un enlace de vista previa en vivo y el stack tecnológico. Haz clic para leer el caso de estudio completo."
+    },
+    "case_study": {
+      "heading": "Caso de Estudio Destacado — Luminary",
+      "body1": "Luminary comenzó como un experimento de fin de semana: ¿podría un pequeño equipo editorial reemplazar su caótico flujo de trabajo con hojas de cálculo con algo que realmente entendiera el contexto? Doce semanas después se convirtió en un SaaS en producción sirviendo a más de 400 usuarios.",
+      "body2": "El desafío principal era la latencia — las sugerencias de IA tenían que parecer instantáneas o los editores las ignorarían. Lo resolví con respuestas en streaming a través del SDK de OpenAI y una capa de UI optimista en Zustand que actualiza el calendario antes de que el servidor confirme. El resultado es un tiempo de respuesta percibido inferior a 200 ms incluso en conexiones lentas.",
+      "body3": "En el lado de la infraestructura, elegí Prisma con una réplica de lectura de PostgreSQL para mantener las consultas del panel rápidas a medida que el conjunto de datos crecía, y usé Vercel Edge Middleware para autenticación para que las rutas protegidas nunca lleguen al origen en frío."
+    },
+    "caseStudy": "Caso de estudio",
+    "code": "Ver código",
+    "cta": {
+      "button": "Explorar todos los proyectos",
+      "github": "Visitar GitHub",
+      "subtitle": "Ve más de mi trabajo y contribuciones",
+      "title": "¿Quieres ver más?"
+    },
+    "empty": "Ningún proyecto coincide con ese filtro.",
+    "eyebrow": "Trabajo destacado",
+    "featured": "Destacado",
+    "filterLabel": "Filtrar por",
+    "heading": "Trabajo Destacado",
+    "live": "En vivo",
+    "stats": {
+      "categories": "Categorías",
+      "featured": "Destacado",
+      "total": "Proyectos Totales",
+      "users": "Usuarios Activos"
+    },
+    "viewAll": "Ver Todo",
+    "viewCode": "Ver Código",
+    "viewProject": "Ver Proyecto"
+  },
+  "home": {
+    "hero": {
+      "heading": "Creando experiencias digitales que dejan huella.",
+      "body": "Hola, soy Alex Rivera — un Desarrollador Full-Stack que convierte problemas complejos en productos web elegantes y de alto rendimiento. Vivo en la intersección entre código limpio y diseño reflexivo.",
+      "cta": "Ver mi trabajo"
+    },
+    "featured": {
+      "heading": "Trabajo Seleccionado",
+      "body": "Un puñado de proyectos de los que estoy orgulloso — abarcando plataformas SaaS, herramientas para desarrolladores y experiencias interactivas.",
+      "cta": "Ver todos los proyectos"
+    },
+    "skills": {
+      "heading": "Habilidades y Tecnologías",
+      "body": "Trabajo en todo el stack — desde interfaces perfectas hasta sistemas backend resilientes e infraestructura en la nube."
+    }
+  },
+  "services": {
+    "cta": "Trabajemos Juntos",
+    "eyebrow": "Lo Que Ofrezco",
+    "heading": "Servicios",
+    "sub": "Soluciones integrales de diseño y desarrollo adaptadas a tus necesidades."
+  },
+  "stats": {
+    "label": "Por Los Números"
+  },
+  "testimonials": {
+    "eyebrow": "Comentarios de Clientes",
+    "heading": "Lo Que Dicen Las Personas"
+  },
+  "featured-projects": [
+    {
+      "title": "Orbit",
+      "description": "SaaS project management platform built with Next.js 14, Prisma, and Stripe. Reduced team onboarding time by 60% for early customers.",
+      "tags": [
+        "Next.js",
+        "TypeScript",
+        "PostgreSQL",
+        "Stripe"
+      ],
+      "image": "/images/orbit-saas-project-management.jpg"
+    },
+    {
+      "title": "Luminary UI",
+      "description": "Open-source component library with 40+ accessible, dark-mode-ready React components. 1.2k GitHub stars in the first month.",
+      "tags": [
+        "React",
+        "Radix UI",
+        "Tailwind CSS",
+        "Storybook"
+      ],
+      "image": "/images/luminary-ui-component-library.jpg"
+    },
+    {
+      "title": "Pulse Analytics",
+      "description": "Real-time web analytics dashboard for indie makers. Processes 2M+ events/day with sub-100ms query response.",
+      "tags": [
+        "Next.js",
+        "ClickHouse",
+        "tRPC",
+        "Recharts"
+      ],
+      "image": "/images/pulse-analytics-dashboard.jpg"
+    },
+    {
+      "title": "Codeflow CLI",
+      "description": "Developer productivity tool that scaffolds full-stack projects in under 30 seconds. 8k+ npm downloads.",
+      "tags": [
+        "Node.js",
+        "TypeScript",
+        "Inquirer",
+        "Chalk"
+      ],
+      "image": "/images/codeflow-cli-developer-tool.jpg"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": "React, Next.js 14, TypeScript, Tailwind CSS, Framer Motion"
+    },
+    {
+      "category": "Backend",
+      "items": "Node.js, tRPC, GraphQL, REST APIs, Prisma ORM"
+    },
+    {
+      "category": "Databases",
+      "items": "PostgreSQL, Redis, ClickHouse, PlanetScale"
+    },
+    {
+      "category": "Cloud & DevOps",
+      "items": "Vercel, AWS (EC2, S3, Lambda), Docker, GitHub Actions"
+    },
+    {
+      "category": "Design & Tooling",
+      "items": "Figma, Storybook, Radix UI, shadcn/ui"
+    },
+    {
+      "category": "Testing",
+      "items": "Vitest, Playwright, React Testing Library"
+    }
+  ],
+  "projects-grid": [
+    {
+      "title": "Luminary",
+      "description": "AI-powered content scheduling dashboard built with Next.js 14, Prisma, and OpenAI. Reduced editorial planning time by 60% for early-access teams.",
+      "tags": [
+        "Next.js",
+        "TypeScript",
+        "PostgreSQL",
+        "OpenAI"
+      ],
+      "image": "/images/luminary-ai-content-scheduling.jpg"
+    },
+    {
+      "title": "Orbit Design System",
+      "description": "A component library of 80+ accessible, dark-mode-first UI primitives published to npm. Used across three production products.",
+      "tags": [
+        "React",
+        "Storybook",
+        "Radix UI",
+        "Tailwind CSS"
+      ],
+      "image": "/images/orbit-design-system-components.jpg"
+    },
+    {
+      "title": "Folio CMS",
+      "description": "A headless content management system with a drag-and-drop block editor, real-time collaboration, and webhook integrations.",
+      "tags": [
+        "Node.js",
+        "tRPC",
+        "Liveblocks",
+        "Vercel"
+      ],
+      "image": "/images/folio-cms-headless-editor.jpg"
+    },
+    {
+      "title": "Pulse Analytics",
+      "description": "Real-time user-behaviour dashboard with heatmaps, funnel analysis, and exportable PDF reports.",
+      "tags": [
+        "React",
+        "D3.js",
+        "Supabase",
+        "Recharts"
+      ],
+      "image": "/images/pulse-analytics-user-behaviour.jpg"
+    },
+    {
+      "title": "Nomad",
+      "description": "A travel-planning app that clusters itinerary stops on an interactive map and estimates costs per destination.",
+      "tags": [
+        "Next.js",
+        "Mapbox GL",
+        "Zustand",
+        "Stripe"
+      ],
+      "image": "/images/nomad-travel-planning-map.jpg"
+    },
+    {
+      "title": "Inkwell",
+      "description": "A minimalist Markdown blogging platform with syntax highlighting, RSS feed generation, and one-click Vercel deploy.",
+      "tags": [
+        "Astro",
+        "MDX",
+        "Shiki",
+        "Cloudflare Pages"
+      ],
+      "image": "/images/inkwell-markdown-blogging-platform.jpg"
+    },
+    {
+      "title": "Threadline",
+      "description": "A Twitter/X thread composer with AI-assisted tone suggestions, character-count visualiser, and scheduled posting.",
+      "tags": [
+        "Next.js",
+        "OpenAI",
+        "Upstash",
+        "Tailwind CSS"
+      ],
+      "image": "/images/threadline-twitter-thread-composer.jpg"
+    },
+    {
+      "title": "Spectral",
+      "description": "A generative-art browser toy that renders audio-reactive visuals from microphone input using the Web Audio API.",
+      "tags": [
+        "TypeScript",
+        "Canvas API",
+        "Web Audio API",
+        "Vite"
+      ],
+      "image": "/images/spectral-generative-art-audio.jpg"
+    }
+  ],
+  "project-details": [
+    {
+      "label": "Problem",
+      "body": "Editorial teams losing hours each week reconciling content calendars across Notion, Sheets, and Slack threads"
+    },
+    {
+      "label": "Solution",
+      "body": "A unified scheduling dashboard with AI-generated caption drafts, conflict detection, and one-click publishing to five platforms"
+    },
+    {
+      "label": "My role",
+      "body": "Solo full-stack engineer and product designer; shipped MVP in 12 weeks, iterated weekly based on beta feedback"
+    },
+    {
+      "label": "Outcome",
+      "body": "60% reduction in planning time reported by beta teams; 400+ active users within 60 days of public launch"
+    },
+    {
+      "label": "Tech highlight",
+      "body": "Streaming OpenAI responses + Zustand optimistic UI delivering sub-200 ms perceived latency"
+    },
+    {
+      "label": "Infrastructure",
+      "body": "Next.js 14 App Router · Prisma ORM · PostgreSQL (primary + read replica) · Vercel Edge Middleware · Upstash Redis"
+    }
+  ],
+  "bio": [
+    "Based in San Francisco, CA — open to remote worldwide",
+    "5+ years shipping production-grade web applications",
+    "Contributor to open-source projects with 2,400+ GitHub stars",
+    "Speaker at JSConf 2023 on 'Designing for Performance'",
+    "Fluent in English and Spanish"
+  ],
+  "experience": [
+    {
+      "period": "2023–Present",
+      "role": "Senior Frontend Engineer",
+      "company": "Vercel",
+      "description": "Leading the design systems team, building the component library used across all Vercel product surfaces. Reduced design-to-production cycle time by 40%."
+    },
+    {
+      "period": "2021–2023",
+      "role": "Full-Stack Engineer",
+      "company": "Linear",
+      "description": "Shipped core features for the issue-tracking product used by 10,000+ engineering teams. Owned the real-time collaboration layer built on WebSockets and CRDTs."
+    },
+    {
+      "period": "2020–2021",
+      "role": "Software Engineer",
+      "company": "Stripe",
+      "description": "Worked on the Stripe Dashboard, improving accessibility (WCAG 2.1 AA compliance) and rebuilding the analytics charting system from scratch."
+    },
+    {
+      "period": "2019–2020",
+      "role": "Frontend Developer",
+      "company": "Loom (YC S16)",
+      "description": "Early-stage hire; built the video recording UI and browser extension that shipped to the first 50,000 users."
+    },
+    {
+      "period": "2018",
+      "role": "B.Sc. Computer Science",
+      "company": "UC Berkeley",
+      "description": "Graduated with honors. Senior thesis on adaptive UI rendering for low-bandwidth environments."
+    }
+  ],
+  "skills-detailed": [
+    {
+      "category": "Languages",
+      "items": "TypeScript, JavaScript (ES2024), Python, Rust (learning), SQL"
+    },
+    {
+      "category": "Frontend",
+      "items": "React 18, Next.js 14 App Router, Tailwind CSS, Framer Motion, Radix UI"
+    },
+    {
+      "category": "Backend",
+      "items": "Node.js, tRPC, GraphQL, REST, Prisma, PostgreSQL, Redis"
+    },
+    {
+      "category": "Infrastructure",
+      "items": "Vercel, AWS (EC2, S3, Lambda), Docker, GitHub Actions CI/CD"
+    },
+    {
+      "category": "Design & Prototyping",
+      "items": "Figma, FigJam, Storybook, Adobe Illustrator"
+    },
+    {
+      "category": "Testing",
+      "items": "Vitest, Playwright, React Testing Library, Cypress"
+    },
+    {
+      "category": "Currently exploring",
+      "items": "WebAssembly, edge computing with Cloudflare Workers, AI-assisted UI generation"
+    }
+  ],
+  "social": [
+    {
+      "platform": "GitHub",
+      "handle": "github.com/alexmorgan",
+      "description": "Open-source projects, experiments, and contributions"
+    },
+    {
+      "platform": "Twitter / X",
+      "handle": "@alexmorgandev",
+      "description": "Thoughts on frontend, design systems, and the web platform"
+    },
+    {
+      "platform": "LinkedIn",
+      "handle": "linkedin.com/in/alexmorgandev",
+      "description": "Professional history and recommendations"
+    },
+    {
+      "platform": "Dribbble",
+      "handle": "dribbble.com/alexmorgan",
+      "description": "Visual explorations and UI concepts"
+    },
+    {
+      "platform": "Read.cv",
+      "handle": "read.cv/alexmorgan",
+      "description": "A curated look at my career, values, and interests"
+    }
+  ],
+  "contact-form": [
+    {
+      "label": "Full Name*",
+      "placeholder": "Your first and last name so I know who I'm speaking with",
+      "name": "name",
+      "type": "text"
+    },
+    {
+      "label": "Email Address*",
+      "placeholder": "A valid address where I can reach you with my reply",
+      "name": "email",
+      "type": "email"
+    },
+    {
+      "label": "Subject*",
+      "placeholder": "e.g. 'Freelance project inquiry' or 'Collaboration idea'",
+      "name": "subject",
+      "type": "text"
+    },
+    {
+      "label": "Message*",
+      "placeholder": "Tell me about your project, timeline, budget, or anything else that's relevant — the more detail, the better",
+      "name": "message",
+      "type": "textarea"
+    },
+    {
+      "label": "Send Message",
+      "placeholder": "",
+      "name": "submit",
+      "type": "submit"
+    }
+  ],
+  "social-links": [
+    {
+      "platform": "GitHub",
+      "handle": "@alexmorrow",
+      "description": "Browse my open-source projects, contributions, and code experiments at github.com/alexmorrow"
+    },
+    {
+      "platform": "LinkedIn",
+      "handle": "Alex Morris",
+      "description": "Professional background, recommendations, and career updates at linkedin.com/in/alexmorris"
+    },
+    {
+      "platform": "Twitter / X",
+      "handle": "@alexmorrisdev",
+      "description": "Quick thoughts on design systems, TypeScript, and the web platform"
+    },
+    {
+      "platform": "Dribbble",
+      "handle": "Alex Morris",
+      "description": "Visual explorations, UI concepts, and design case studies at dribbble.com/alexmorris"
+    },
+    {
+      "platform": "Read.cv",
+      "handle": "Alex Morris",
+      "description": "A curated overview of my work history and selected projects at read.cv/alexmorris"
+    }
+  ],
+  "footer-links": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Projects",
+      "href": "/projects"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ]
+}
